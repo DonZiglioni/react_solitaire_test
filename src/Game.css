@@ -1,0 +1,20 @@
+.game {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100vw;
+}
+
+.game-grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 100%;
+}
+
+button {
+    position: absolute;
+    top: 1em;
+}
