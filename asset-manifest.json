@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_solitaire_test/static/css/main.0ebb14e8.css",
+    "main.js": "/react_solitaire_test/static/js/main.ed5cf312.js",
+    "index.html": "/react_solitaire_test/index.html",
+    "main.0ebb14e8.css.map": "/react_solitaire_test/static/css/main.0ebb14e8.css.map",
+    "main.ed5cf312.js.map": "/react_solitaire_test/static/js/main.ed5cf312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebb14e8.css",
+    "static/js/main.ed5cf312.js"
+  ]
+}
